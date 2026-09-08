@@ -4,7 +4,7 @@
 
 I'm a Computer Science student passionate about **Software Quality, Test Automation and Technology**.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/denissefernandezllamas)
+🔗  **[Connect with me on LinkedIn](https://www.linkedin.com/in/denissefernandezllamas)**
 
 🔍 Currently focused on:
 
